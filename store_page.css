@@ -227,4 +227,5 @@ h4 {
 .sale_window:hover {
     transform: translateY(-8px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
 }

@@ -148,7 +148,7 @@ h4 {
     margin-bottom: 0px;
 }
 
-#new_title, #footer_text {
+#new_title, #footer_text, #diss_title {
     margin-left: 56px;
     margin-right: 56px;
 }
@@ -228,4 +228,10 @@ h4 {
 .sale_window:hover {
     transform: translateY(-8px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.title_main{
+    border-bottom: 2px solid #191919;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
